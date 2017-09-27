@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NodeJspoint</string>
+    <string name="login">LOGIN</string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="forgot_password">FORGOT PASSWORD ?</string>
+    <string name="sign_up">Don\'t have an account? Sign Up</string>
+    <string name="facebook_login">FACEBOOK</string>
+    <string name="google_login">GOOGLE</string>
+    <string name="name">NAME</string>
+    <string name="cname">COMPANY NAME</string>
+    <string name="role">ROLE</string>
+    <string name="register">REGISTER</string>
+    <string name="Submit">Submit</string>
+    <string name="forget_password">FORGET PASWORD</string>
+</resources>
